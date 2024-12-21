@@ -1,0 +1,295 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #FFF;
+}
+
+header {
+  width: 704px;
+  margin: 0 auto;
+}
+
+h1 {
+color: #000;
+font-family: Lato;
+font-size: 72px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+#headingdiv {
+  width: 1220px;
+  margin: 0 auto;
+}
+
+#headingText {
+color: #FF8000;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+margin-top: 53px;
+}
+
+#topContentMom {
+width: 1786px;
+margin: 0 auto;
+}
+
+#topContent {
+width: 696px;
+margin-top: 63px;
+margin-bottom: 101px;
+}
+
+#textContentOne {
+width: 681px;
+margin-bottom: 30px;
+}
+
+#h2One {
+color: #D9AE00;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+margin-bottom: 24px;
+}
+
+#contentOneText {
+color: #6D81B4;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+#bigBangOne {
+height: 415px;
+width: 696px;
+}
+
+#middleContentMom {
+width: 1786px;
+margin: 0 auto;
+}
+
+#middleContent {
+width: 1007px;
+padding: 64px;
+border-top: 2px solid #000;
+border-left: 2px solid #000;
+border-right: 3px solid #F00;
+border-bottom: 3px solid #F00;
+background: #FFCEBE;
+margin-bottom: 101px;
+}
+
+#textContentTwo {
+width: 681px;
+margin: 0 auto;
+}
+
+#h2Two {
+color: #F44E50;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: uppercase;
+margin-bottom: 24px;
+}
+
+#contentTwoText {
+margin-bottom: 30px;
+color: #8B2B2C;
+text-align: center;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+#blackHole {
+width: 879px;
+height: 415px;
+}
+
+#bottomContentMom{
+width: 1786px;
+margin: 0 auto;
+}
+
+#bottomContent {
+width: 696px;
+}
+
+#textContentThreeOne {
+width: 696px;
+}
+
+#h2Three {
+color: #4716E4;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+text-align: right;
+}
+
+#insidetextContentThreeOne {
+padding: 24px;
+width: 696px;
+border: 3px solid #FF5DA3;
+background: #FFC1E3;
+margin-top: 24px;
+margin-bottom: 30px;
+}
+
+#contentThreeTextOne {
+color: #616161;
+text-align: right;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+#bottomContentTwo {
+width: 700px;
+margin-bottom: 30px;
+}
+
+#h2Four {
+color: #414651;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: 24px;
+margin-bottom:16px;
+}
+
+#rectangleList {
+width: 700px;
+vertical-align: middle;
+margin-bottom: 30px;
+}
+
+#recOne {
+width: 16px;
+height: 16px;
+border-radius: 90px;
+background: #000;
+vertical-align: middle;
+margin-right: 12px;
+display: inline-block;
+}
+
+#recTwo {
+width: 16px;
+height: 16px;
+border-radius: 90px;
+background: #000;
+vertical-align: middle;
+margin-right: 12px;
+}
+
+#recThree {
+width: 16px;
+height: 16px;
+border-radius: 90px;
+background: #000;
+vertical-align: middle;
+margin-right: 12px;
+}
+
+#rOneLi{
+color: #C27512;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#rTwoLi {
+color: #C27512;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#rThreeLi {
+color: #C27512;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+vertical-align: middle;
+display: inline-block;
+}
+
+#recOneMain {
+margin-bottom: 8px;
+width: 700px;
+display: inline-block;
+}
+
+#recTwoMain {
+margin-bottom: 8px;
+width: 700px;
+}
+
+#recThreeMain {
+margin-bottom: 8px;
+width: 700px;
+}
+
+#recOneText {
+width:667px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+#recTwoText {
+width:667px;
+display: inline-block;
+vertical-align: middle;
+}
+
+#recThreeText {
+width:667px;
+display: inline-block;
+vertical-align: middle;
+} 
+
+#formsImg {
+height: 415px;
+width: 696px;
+margin-bottom: 259px;
+}
